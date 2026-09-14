@@ -450,6 +450,7 @@ plugins:
             Versions Overview: 版本概览
             Absolute: 绝对值
             Bool: bool() 函数
+            Breakpoint: 断点
             Builtins: 内置
             Standard Library: 标准库
             Implementations: 实现
