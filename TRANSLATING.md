@@ -20,7 +20,7 @@ translation is always safe to ship.
 |--------|----------|----------------------------|
 | `en`   | English  | Complete (source of truth) |
 | `fi`   | Suomi    | Pilot - 14 pages           |
-| `zh`   | 简体中文 | Pilot - 24 pages           |
+| `zh`   | 简体中文 | Pilot - 25 pages           |
 | `ja`   | 日本語   | Pilot - 13 pages           |
 
 ## Workflow

@@ -1,4 +1,4 @@
-<!-- source_sha: 838f8f26e0771ea65e354395090a773fcebb65ed349b4d538062c3323ab37e1c -->
+<!-- source_sha: c2e66cc0900ba970e4363d81798a2a75f1f4a3fe27a84eac62650c39630ff474 -->
 <!-- translated: machine -->
 
 [English](TRANSLATING.md) | **简体中文**
@@ -20,7 +20,7 @@ docs/fi/builtins/list.md     -> https://pythoncomplexity.com/fi/builtins/list/
 |--------|----------|----------------------------|
 | `en`   | English  | 完整(唯一权威来源) |
 | `fi`   | Suomi    | 试点 - 14 页           |
-| `zh`   | 简体中文 | 试点 - 24 页           |
+| `zh`   | 简体中文 | 试点 - 25 页           |
 | `ja`   | 日本語   | 试点 - 13 页           |
 
 ## 工作流程

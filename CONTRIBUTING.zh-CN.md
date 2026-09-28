@@ -1,4 +1,4 @@
-<!-- source_sha: 0bfff40e847a827c2fa95950bdb27e1f7ab4fa6a7f02a454ef2a8b37b5303f0f -->
+<!-- source_sha: da6b0c5fa10a7f8a67d080fccc83e4d355c4a2447b51ee29055d10b235e1b0e4 -->
 <!-- translated: machine -->
 
 [English](CONTRIBUTING.md) | **简体中文**
@@ -152,7 +152,7 @@ docs/fi/builtins/list.md   ->  https://pythoncomplexity.com/fi/builtins/list/
 |--------|----------|----------------------------|
 | `en`   | English  | 完整(唯一权威来源) |
 | `fi`   | Suomi    | 试点 - 14 页           |
-| `zh`   | 简体中文 | 试点 - 24 页           |
+| `zh`   | 简体中文 | 试点 - 25 页           |
 | `ja`   | 日本語   | 试点 - 13 页           |
 
 没有翻译的页面会自动回退到英文，因此部分翻译始终可以安全合并。你无需在贡献前翻译整个章节。这些回退页面会以读者语言显示一条简短提示，说明该页面尚未翻译，因此本地化 URL 下的英文内容不会被视为 bug。
