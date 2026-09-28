@@ -452,6 +452,7 @@ plugins:
             Bool: bool() 函数
             Breakpoint: 断点
             Bytearray: 字节数组
+            Callable: 可调用性
             Builtins: 内置
             Standard Library: 标准库
             Implementations: 实现
